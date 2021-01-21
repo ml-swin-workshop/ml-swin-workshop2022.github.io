@@ -4,7 +4,7 @@ div#conference{
 	margin-left: 0px;
 	margin-right:50px;
 	background:#333333;
-	border-radius: 5px;	
+	border-radius: 5px;
 	width:300px;
 	height:300px;
 	overflow: auto;
@@ -20,13 +20,13 @@ div#conference .title{
 	font-size:0.9em;
 	background:transparent;
 	text-decoration:none;
-	
+
 }
 
 div#conference ul.menu li a{
 	float:left;
 	color:#ffffff;
-	
+
 }
 
 
@@ -36,17 +36,14 @@ div#conference li {
    margin-bottom:10px;
    margin-top:10px;
    margin-left:-15px;
-	
+
 }
 div#conference ul {
 border-top: 1px solid #404040;
 }
 
-#conference a:link, 
-#conference a:visited, 
-#conference a:hover { 
+#conference a:link,
+#conference a:visited,
+#conference a:hover {
 	color:#fff;
 }
-
-
-
